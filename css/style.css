@@ -9,7 +9,7 @@ h1{ text-align: center;font-size: 1.5em; color: #f90d5f; width: 70%; display: bl
 h3, p{font-size: .9em;color: #ffffff;text-align: center;}
 img{width:4vw;display: block;  margin: 0 auto;}
 
-header{  height: 100vh;}
+
 
 .p1{  background-color: #ffffff; padding: 5vh 0;}
 .p1-box{ display: grid;grid-template-columns: 45% 45%;justify-content: center;align-items:flex-start ;}
